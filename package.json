@@ -1,0 +1,19 @@
+{
+  "name": "uups_truffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "@openzeppelin/contracts-upgradeable": "^4.4.2",
+    "@truffle/hdwallet-provider": "^2.0.1"
+  },
+  "devDependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.12.0"
+  }
+}
